@@ -94,3 +94,5 @@ Open a pull request 🚀
 
 📜 License
 Licensed under the MIT License. Use freely for personal or commercial purposes.
+
+In collaboraration with https://github.com/kjarir/trustissues
